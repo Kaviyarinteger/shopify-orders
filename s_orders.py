@@ -4,7 +4,7 @@
 # In[3]:
 
 
-pip --version
+#pip --version
 
 
 # In[ ]:
